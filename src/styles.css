@@ -1,1 +1,12 @@
 /* You can add global styles to this file, and also import other style files */
+
+body {
+  background-color: bisque;
+  font-family: "Kaushan Script", cursive;
+}
+
+h1,
+h2 {
+  padding: 2rem;
+  text-align: center;
+}
